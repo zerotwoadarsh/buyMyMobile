@@ -36,3 +36,30 @@ export const navbarData = [
     link: "/",
   },
 ];
+
+export const FooterData1 = [
+  {
+    id: "1",
+    text: "Modern",
+  },
+  {
+    id: "2",
+    text: "Decorations",
+  },
+  {
+    id: "3",
+    text: "Events",
+  },
+  {
+    id: "4",
+    text: "Careere",
+  },
+  {
+    id: "5",
+    text: "Forum",
+  },
+  {
+    id: "6",
+    text: "Contacts",
+  },
+];
