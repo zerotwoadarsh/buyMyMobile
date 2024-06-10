@@ -98,3 +98,27 @@ export const FooterData3 = [
     text: "Marketing",
   },
 ];
+
+export const sliderData = [
+  {
+    id: "1",
+    title: "Room 1",
+    text: "With AxeL, your room will shine bright again. Let furniture find there place in new beautifule warm room.",
+    type: "Room1",
+    img: sofa2,
+  },
+  {
+    id: "2",
+    title: "Room 2",
+    text: "AxeL is your best firend for interior design, download the app and feel free to explore beautifule modern and premium designs.",
+    type: "Room2",
+    img: chair,
+  },
+  {
+    id: "3",
+    title: "Room 3",
+    text: "AxeL is your best firend for interior design, download the app and feel free to explore beautifule modern and premium designs.",
+    type: "Room3",
+    img: sofa3,
+  },
+];
