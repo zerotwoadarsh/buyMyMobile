@@ -63,3 +63,19 @@ export const FooterData1 = [
     text: "Contacts",
   },
 ];
+
+export const FooterData2 = [
+  {
+    id: "1",
+    text: "Privacy policy",
+    path: "Resources",
+  },
+  {
+    id: "2",
+    text: "Terms of use",
+  },
+  {
+    id: "3",
+    text: "Cookies",
+  },
+];
