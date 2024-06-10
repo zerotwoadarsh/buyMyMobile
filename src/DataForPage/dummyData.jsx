@@ -186,3 +186,21 @@ export const cardData = [
     text: "Setup your room on AxeL in a few seconds. All you need is few images and creative ideas and your business is ready.",
   },
 ];
+
+export const room = [
+  {
+    id: "1",
+    name: "Bedroom ideas for you and your partner. ",
+    img: blueSofa,
+  },
+  {
+    id: "2",
+    name: "No room is quite as warm as the living room.",
+    img: blueSofa,
+  },
+  {
+    id: "3",
+    name: "No room is quite as multifunctional as the kitchen.",
+    img: blueSofa,
+  },
+];
