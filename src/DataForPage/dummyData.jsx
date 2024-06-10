@@ -168,3 +168,21 @@ export const tabsData = [
     linkText: "See more",
   },
 ];
+
+export const cardData = [
+  {
+    id: "0",
+    title: "Ready to get started?",
+    text: "Explore AxeL Pricing and chose the plan that suites you the best, or send as an inquery about invidual plan. You can also request a demo app to test in a secure enviroment.",
+  },
+  {
+    id: "1",
+    title: "Room",
+    text: "Customize your own Bedroom, LivingRoom, Kitchen, Office and much more. Anytime, in a matter of seconds.",
+  },
+  {
+    id: "2",
+    title: "Connect to AxeL",
+    text: "Setup your room on AxeL in a few seconds. All you need is few images and creative ideas and your business is ready.",
+  },
+];
