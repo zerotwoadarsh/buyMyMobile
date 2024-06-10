@@ -122,3 +122,49 @@ export const sliderData = [
     img: sofa3,
   },
 ];
+
+export const tabsData = [
+  {
+    id: "0",
+    label: "Bedroom",
+    value: "bedroom",
+    desc: `AxeL is your best firend for interior design, download the app and feel free to explore beautifule modern and premium designs.`,
+    img: phone1,
+    linkText: "See more",
+  },
+  {
+    id: "1",
+    label: "LivingRoom",
+    value: "livingroom",
+    desc: "AxeL is your best firend for interior design, download the app and feel free to explore beautifule modern and premium designs.",
+    img: phone1,
+    linkText: "See more",
+  },
+
+  {
+    id: "2",
+    label: "Kitchen",
+    value: "kitchen",
+    desc: `AxeL is your best firend for interior design, download the app and feel free to explore beautifule modern and premium designs.`,
+    img: phone1,
+    linkText: "See more",
+  },
+
+  {
+    id: "3",
+    label: "Office",
+    value: "office",
+    desc: ` AxeL is your best firend for interior design, download the app and feel free to explore beautifule modern and premium designs.`,
+    img: phone1,
+    linkText: "See more",
+  },
+
+  {
+    id: "4",
+    label: "KidsRoom",
+    value: "kidsroom",
+    desc: `AxeL is your best firend for interior design, download the app and feel free to explore beautifule modern and premium designs.`,
+    img: phone1,
+    linkText: "See more",
+  },
+];
