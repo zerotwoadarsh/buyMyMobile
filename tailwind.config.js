@@ -17,7 +17,7 @@ export default withMT({
     },
     backgroundImage: {
       wrapperBg: "url('assets/images/wrapperBackground.svg')",
-      wrapperDark: "url('assets/images/wrapperDark.svg')",
+      // wrapperDark: "url('assets/images/wrapperDark.svg')",
     },
     container: {
       screens: {
